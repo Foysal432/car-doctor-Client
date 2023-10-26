@@ -29,6 +29,7 @@ const Googlesingin = () =>{
 }
 // sing in out
 const logout = () =>{
+    setLoading(true);
     return signOut (auth)
 }
 

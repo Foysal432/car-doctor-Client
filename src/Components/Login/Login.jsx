@@ -58,7 +58,6 @@ const handlegoogle =()=>{
         </div>
       <div className='text-center'>
       <h1>Or</h1>
-     
       </div>
       </form>
       <button onClick={handlegoogle} className='btn btn-accent'>Google</button>
